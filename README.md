@@ -7,7 +7,7 @@
 
 
 **Overview of project**
-![Uploading Screenshot_26-6-2024_212450_127.0.0.1.jpeg…]()
+![Screenshot_26-6-2024_212450_127 0 0 1](https://github.com/amitgupta226571/CODETECH-Task1/assets/163492672/30114e65-b08a-4d0c-b5e5-1fb07b2b30d4)
 
 **Project:** Personal Portfolio Website
 
