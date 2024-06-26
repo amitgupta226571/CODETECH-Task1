@@ -20,7 +20,7 @@
 
 **Project:** Personal Portfolio Website
 
-![Screenshot_26-6-2024_212450_127 0 0 1](https://github.com/amitgupta226571/CODETECH-Task1/assets/163492672/30114e65-b08a-4d0c-b5e5-1fb07b2b30d4)
+![Screenshot_26-6-2024_235241_127 0 0 1](https://github.com/amitgupta226571/CODETECH-Task1/assets/163492672/93472d24-5ccd-4a9d-94d5-60fd9f3ac72d)
 
 
 
