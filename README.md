@@ -19,8 +19,7 @@
 **Overview of project**
 
 **Project:** Personal Portfolio Website
-
-![Screenshot_26-6-2024_235241_127 0 0 1](https://github.com/amitgupta226571/CODETECH-Task1/assets/163492672/93472d24-5ccd-4a9d-94d5-60fd9f3ac72d)
+(http://127.0.0.1:5500/devportfolio-master%20-%20Copy/index.html)
 
 
 
